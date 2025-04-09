@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SUKI_Integration/static/css/main.df4bf8c7.css",
+    "main.js": "/SUKI_Integration/static/js/main.c9c4d5fe.js",
+    "static/js/453.3453ed5b.chunk.js": "/SUKI_Integration/static/js/453.3453ed5b.chunk.js",
+    "index.html": "/SUKI_Integration/index.html",
+    "main.df4bf8c7.css.map": "/SUKI_Integration/static/css/main.df4bf8c7.css.map",
+    "main.c9c4d5fe.js.map": "/SUKI_Integration/static/js/main.c9c4d5fe.js.map",
+    "453.3453ed5b.chunk.js.map": "/SUKI_Integration/static/js/453.3453ed5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df4bf8c7.css",
+    "static/js/main.c9c4d5fe.js"
+  ]
+}
